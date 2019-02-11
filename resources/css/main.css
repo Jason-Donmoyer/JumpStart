@@ -1,0 +1,29 @@
+body {
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0,0,0,0.7);
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+.nav li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav a {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0,0,0,0.7);
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    text-decoration: none;
+}
+
+.nav .active {
+    color: #399bd1; 
+}
